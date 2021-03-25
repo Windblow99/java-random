@@ -1,0 +1,3 @@
+association.Vote
+association.Association
+association.Candidate

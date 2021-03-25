@@ -1,0 +1,4 @@
+p1|2622b6f4-30cb-4899-baef-c711b7a67e4f|patient|patient 1
+p2|9d978152-9130-4398-9899-08f5ec6b9b53|patient|patient 2
+h1|49995b79-42e1-4503-8b5d-6befdb6a6c83|healthcare personnel|hospital 1
+ic1|d9376902-9e2e-4dd9-8329-b60155bf98f9|insurance company|insurance 1

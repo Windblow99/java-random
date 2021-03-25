@@ -1,0 +1,12 @@
+Exercise.Week7.CharDecorator
+Exercise.Week7.Offence
+Exercise.Week7.Character
+Exercise.Week7.Player
+Exercise.Week7.Soldier
+Exercise.Week7.Sword
+Exercise.Week7.Spy
+Exercise.Week7.Scientist
+Exercise.Week7.Shield
+Exercise.Week7.Factory_Decorator_Strategy_Game
+Exercise.Week7.Defence
+Exercise.Week7.CharacterFactory

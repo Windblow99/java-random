@@ -1,0 +1,3 @@
+pat|6ba2778a-78bb-4ba5-b872-710882154f45|patient|Patient 1
+pat2|099e49ba-7fad-47b0-8b98-cd07cb6dc243|patient|Patient 2
+h1|5f07828c-5780-4ba8-86a1-ce357d2c2c2d|healthcare personnel|health1
